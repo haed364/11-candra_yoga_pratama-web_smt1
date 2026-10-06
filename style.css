@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    justify-content: center;
+    display: flex;
     font-family: Arial, sans-serif;
     backdrop-filter: blur(15px);
     background: linear-gradient(135deg, #393838, #7c7b7b);
